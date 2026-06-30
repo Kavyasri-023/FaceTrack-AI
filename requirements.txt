@@ -7,4 +7,4 @@ mysql-connector-python==9.0.0
 pandas==2.1.4
 numpy==1.26.4
 python-dotenv==1.0.1
-Pillow==10.4.0
+Pillow
